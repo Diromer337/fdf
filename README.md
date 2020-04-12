@@ -1,5 +1,5 @@
 # fdf
-## Запуск
+## Запуск (only mac)
 ```
 ./fdf [map_file]
 ```
