@@ -18,4 +18,4 @@
 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
 ```
 Окно:
-![](https://https://github.com/Diromer337/fdf/blob/master/images/42.png)
+![](https://github.com/Diromer337/fdf/blob/master/images/42.png)
